@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Find Work testapi</string>
+    <string-array name="area_list">
+        <item>Thu Duc</item>
+        <item>Binh Thanh</item>
+        <item>Ben Nghe</item>
+        <item>Go Vap</item>
+    </string-array>
+</resources>
